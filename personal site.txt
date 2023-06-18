@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Sukhbir's personal site</title>
+
+    </head>
+    <body>
+        <img
+            src="C:\Users\lenovo\OneDrive\Desktop\full stack wed dev. course\HTML\personal site\images\1.png"
+            alt=" Sukhbir singh"
+            height="250"
+            width="250">
+        <h1>Sukhbir singh</h1>
+
+    </body>
+</html>
